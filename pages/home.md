@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home-infographic.html
+layout: home-infographic
 permalink: /home.html
 # include CollectionBuilder info at bottom
 credits: true
