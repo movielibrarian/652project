@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: _config.yml
+layout: home-infographic.html
 permalink: /home.html
 # include CollectionBuilder info at bottom
 credits: true
