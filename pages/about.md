@@ -19,7 +19,7 @@ Nearly all the photos were taken by Nellie Jean Nash and her daughter, Janice Na
 
 This digital library project is an assignment for the class ILS-Z 652 Digital Libraries, taught by John Walsh and Alex Wingate. A special thanks to them for their patience and generous grading throughout the semester. Another thank you goes to the CollectionBuilder team, as it is without their template that this website would not be possible. 
 
-The metadata standards are inspired from the demo collection that CollectionBuilder uses for the GitHub sample. The required fields for this project include objectid, filename, title, forrmat, description, creator, dae, date-is-approximate, item_information, subject, locatiton, latitude, longitude, rights statement, type, and language. While these photos are available for public viewing, please respect the families' privacy and do not use them for profit or download. 
+The metadata standards are inspired from the demo collection that CollectionBuilder uses for the GitHub sample. The required fields for this project include objectid, filename, title, format, description, creator, date, date-is-approximate, item_information, subject, locatiton, latitude, longitude, rights statement, type, and language. While these photos are available for public viewing, please respect the families' privacy and do not use them for profit or download. 
 
 ## Coming Up 
 This was only a small sample of photos. There are several photos that have been digitized that are awaiting editing, and several that have not touched the scanner. To continue, I have not been able to collect photos from either the Russell or Welch side of the family, nor digital born photos. In the future, I hope to gather those and add them to this website. 
